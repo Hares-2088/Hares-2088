@@ -2,6 +2,14 @@
 
 I’m a passionate software developer currently studying Computer Science at Champlain College. I specialize in full-stack development, focusing on creating dynamic and user-friendly applications. With a strong foundation in both frontend and backend technologies, I aim to deliver high-quality software solutions that enhance user experience.
 
+---
+
+![Adem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nic5694&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+![Adem's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nic5694&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic5694&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
+
+---
+
 ## 🌟 Projects
 
 Here are some of the projects I have worked on:
