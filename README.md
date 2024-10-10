@@ -16,6 +16,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hares-2088&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ---
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hares-2088&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+---
 ## 🛠️ My Developer Profile
 ```javascript
 const adem = {
@@ -33,7 +37,6 @@ const adem = {
   challenge: "Currently enhancing my full-stack skills with React and Spring Boot"
 }
 ```
-
 ## 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/adem-bessam-b84831252](https://www.linkedin.com/in/adem-bessam-b84831252/)
