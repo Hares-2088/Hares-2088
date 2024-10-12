@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Adem
 
-<p><em>Software Developer at <a href="https://www.champlaincollege.qc.ca/">Champlain College</a><img src="https://media1.giphy.com/media/TPJnC36kY11vc05p7V/giphy.webp?cid=ecf05e47kfbs7pwo24qjxyljm5ndjfgsuct2jip0jeiqgmnh&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30"></br></em></p>
+<p><em>Computer Science at <a href="https://www.champlaincollege.qc.ca/">Champlain College</a><img src="https://media1.giphy.com/media/TPJnC36kY11vc05p7V/giphy.webp?cid=ecf05e47kfbs7pwo24qjxyljm5ndjfgsuct2jip0jeiqgmnh&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30"></br></em></p>
 
 <p>I'm a passionate software developer with expertise in creating dynamic, user-friendly applications. I have a solid foundation in both frontend and backend technologies, which allows me to build seamless and high-quality software solutions that prioritize user experience.</p>
 
