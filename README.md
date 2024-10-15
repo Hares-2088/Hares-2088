@@ -23,7 +23,6 @@
 ## 🛠️ My Developer Profile
 ```javascript
 const adem = {
-  pronouns: "he" | "him",
   code: [JavaScript, PHP, Java, Python, HTML, CSS, C#],
   tools: [React, Spring Boot, Laravel, Git, Docker, Postman, EmailJS],
   databases: [MongoDB, SQL, Postgres],
