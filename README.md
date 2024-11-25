@@ -43,4 +43,3 @@ const adem = {
 
 <em><b>Feel free to connect with me! I’m always looking to collaborate and learn more. Thanks for visiting my profile!</em></b>
 
-![GitHub Snake Animation](https://Hares-2088.github.io/Hares-2088/github-snake.svg)
