@@ -23,17 +23,23 @@
 ## 🛠️ My Developer Profile
 ```javascript
 const adem = {
-  code: [JavaScript, PHP, Java, Python, HTML, CSS, C#],
-  tools: [React, Spring Boot, Laravel, Git, Docker, Postman, EmailJS],
-  databases: [MongoDB, SQL, Postgres],
+  code: [JavaScript, PHP, Java, Python, HTML, CSS, C#, Swift, C++, Kotlin, Typescript],
+  tools: [React, Spring Boot, Laravel, Git, Docker, Postman, EmailJS, Linux, Jira, Unity],
+  databases: [MongoDB, SQL, Postgres, SQLite],
   methodologies: ["Agile", "Test-Driven Development"],
   projects: [
-    { name: "BookWiki", description: "A Goodreads-like application for books." },
-    { name: "Fluent Fingers", description: "A Duolingo-like app for sign language." },
-    { name: "Dar El Salam Travel", description: "Travel tour management system." },
-    { name: "Pet Clinic", description: "Veterinary product management system." }
-  ],
-  challenge: "Currently enhancing my full-stack skills with React and Spring Boot"
+  { name: "BookWiki", description: "A Goodreads-like application for books." },
+  { name: "Fluent Fingers", description: "A Duolingo-like app for sign language." },
+  { name: "Dar El Salam Travel", description: "Travel tour management system." },
+  { name: "Pet Clinic", description: "Veterinary product management system." },
+  { name: "SmartNest", description: "A smart home management system." },
+  { name: "ShoppingCart_BE", description: "Backend for a shopping cart application with Google OAuth integration." },
+  { name: "Chess", description: "A Java-based chess game implementation." },
+  { name: "SensorViz", description: "A tool for visualizing sensor data." },
+  { name: "myLibrary", description: "A personal library management system." },
+  { name: "GABI", description: "A music platform app for musicians, utilizing Spotify's API for track samples." }
+],
+  challenge: "Currently working on a travel tour management system for Dar El Salam"
 }
 ```
 ## 📫 Connect with Me
